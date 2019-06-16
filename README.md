@@ -1,2 +1,7 @@
-$ bower install
-$ pulp server
+PureScript Sanbox
+====================
+
+```
+> $ bower install
+> $ pulp server
+```
